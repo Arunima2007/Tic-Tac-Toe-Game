@@ -24,4 +24,4 @@ The players can reset the game whenever they wish to.
 -**Clean & Responsive UI**  
 Built with HTML, CSS, and vanilla JS for a simple yet responsive front-end
 ## Demo
-![Tic-Tac-Toe](demo1.mov)
+![Tic-Tac-Toe](demo2.gif)
