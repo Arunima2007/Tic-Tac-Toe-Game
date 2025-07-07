@@ -1,6 +1,6 @@
 # Tic-Tac-Toe-Game
 
-This is a Tic-Tac-Toe game that I created to learn how to manipulate HTML manipulation using JavaScript
+This is a Tic-Tac-Toe game that I created to learn how to manipulate HTML elements using JavaScript
 
 The project uses:
 - **HTML** for structure
